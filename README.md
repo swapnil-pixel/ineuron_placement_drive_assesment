@@ -1,4 +1,4 @@
-# text_replacer :
+# text_replacer function:
                  """
                  This function is used to replace all the occurences of the old text to new_text.
                  """   
