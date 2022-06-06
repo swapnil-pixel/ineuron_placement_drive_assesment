@@ -8,6 +8,6 @@ def text_replacer(file_path, old_text, new_text):
     with open(file_path, 'w') as file:
         file.write(file_text)
              
-text_replacer("example.txt", "placement", "Screening" )
+
         
 
